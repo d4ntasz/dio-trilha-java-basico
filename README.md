@@ -11,4 +11,4 @@
 
 ## 📖 O que aprendi:
 
-Nesse desafio aprimorei aprendi mais sobre sintaxe e lógica de programação utilizando Java.
+Nesse desafio aprimorei e aprendi mais sobre sintaxe e lógica de programação utilizando Java.
